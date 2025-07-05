@@ -8,10 +8,12 @@ This repository showcases how common features from modern applications are built
 
 ## 🚀 What's Inside?
 
-| Feature                        | Description |
-|--------------------------------|-------------|
-| `RecentEmojis.java`            | Implements logic for tracking the most recently used emojis, similar to smartphone keyboards. Uses a combination of doubly linked lists and hash maps. |
-| _More coming soon..._          | Additional real-world inspired system designs and DSA problems. |
+| Feature                   | Description                                                                                                                                                            |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `RecentEmojis.java`       | Implements logic for tracking the most recently used emojis, similar to smartphone keyboards. Uses a combination of doubly linked lists and hash maps.                 |
+| `AutoCompleteSystem.java` | Implements logic for autocomplete search system, similar to google search, youtube search. Uses a combination of Tries and Priority Queue(for hot search suggestions). |
+| `linkedInRecommendations` | Implements logic for linkedIn skill based recommendation suggestions. Uses Graph traversal techniques, Priority Queue for top skill matches and Sets.                  |
+| _More coming soon..._     | Additional real-world inspired system designs and DSA problems.                                                                                                        |
 
 ---
 
